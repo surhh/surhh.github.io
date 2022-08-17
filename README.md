@@ -1,3 +1,7 @@
+# Latest version (1.1) of nFITSview to download
+
+[nfitsview1_1-setup-x64.exe](https://github.com/surhh/nfitsview/releases/download/v1.1/nfitsview1_1-setup-x64.exe)
+
 # About nFITSview  (next FITS viewer)
 nFITSview - A simple FITS image viewer
 
