@@ -1,6 +1,6 @@
 # Welcome to nFITSview page!
 
-Latest version (1.1) of nFITSview for Windows 64-bit to download:
+The latest version (1.1) of nFITSview for Windows 64-bit to download:
 
 [nfitsview1_1-setup-x64.exe](https://github.com/surhh/nfitsview/releases/download/v1.1/nfitsview1_1-setup-x64.exe)
 
