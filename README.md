@@ -1,4 +1,6 @@
-# Latest version (1.1) of nFITSview to download
+# Welcome to nFITSview page!
+
+Latest version (1.1) of nFITSview for Windows 64-bit to download:
 
 [nfitsview1_1-setup-x64.exe](https://github.com/surhh/nfitsview/releases/download/v1.1/nfitsview1_1-setup-x64.exe)
 
@@ -38,7 +40,7 @@ corresponding pathes for the libraries in the CMakeLists.txt file and then build
 
 The details about FITS format and standards can be found here:
 
-https://fits.gsfc.nasa.gov/fits_documentation.html
+[FITS docs]https://fits.gsfc.nasa.gov/fits_documentation.html
 
-https://fits.gsfc.nasa.gov/fits_standard.html
+[FITS standard]https://fits.gsfc.nasa.gov/fits_standard.html
 
