@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+# About nFITSview  (next FITS viewer)
+nFITSview - A simple FITS image viewer
 
-You can use the [editor on GitHub](https://github.com/surhh/surhh.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+![nfitsview1_1_screenshot_5](https://user-images.githubusercontent.com/109148999/180640402-b17321d1-2002-4112-81db-3fd0c16e0b8f.png)
+![nfitsview1_1_screenshot_6](https://user-images.githubusercontent.com/109148999/180640403-01bed71b-ae8b-4fdd-aa3b-2d104e64ea56.png)
+![nfitsview1_1_screenshot_7](https://user-images.githubusercontent.com/109148999/180741392-779ce687-e1a1-4937-a806-0b9de9a6c3c7.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+Currently nFITSview supports the following formats and features:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    - 32-bit floating images
+    - 64-bit floating images (experimental, may still not work as it should)
+    - Exporting image HDUs as PNG/JPEG/BMP files
+    - Bulk exporting of all image HDUs as PNG files
+    - RGB gamma correction and grayscaling
+    - Image zoom in/out
+    - HDU header syntax view
+    - Raw data hex preview
+    
+# How to build under Linux
 
-```markdown
-Syntax highlighted code block
+The original development of nFITSview is done under Linux, so the easiest and the fastest way to build is under Linux.
 
-# Header 1
-## Header 2
-### Header 3
+- just build in Qt Creator. 
+- it should be also possible to build using CMake from the command line.
 
-- Bulleted
-- List
+# How to build under Windows
 
-1. Numbered
-2. List
+Normally there is no need to build under Windows as the install package is provided. 
+Anyway, for building under Windows one would need to download/install/build all the dependencies (boost, zlib, libpng), then fix the
+corresponding pathes for the libraries in the CMakeLists.txt file and then build the project using Qt Creator.
 
-**Bold** and _Italic_ and `Code` text
+# About FITS format
 
-[Link](url) and ![Image](src)
-```
+The details about FITS format and standards can be found here:
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+https://fits.gsfc.nasa.gov/fits_documentation.html
 
-### Jekyll Themes
+https://fits.gsfc.nasa.gov/fits_standard.html
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/surhh/surhh.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
