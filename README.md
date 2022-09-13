@@ -1,15 +1,24 @@
 # Welcome to nFITSview page!
 
-The latest version (1.1) of nFITSview for Windows 64-bit to download:
+The latest version (1.2) of nFITSview for Windows 64-bit to download:
 
-[nfitsview1_1-setup-x64.exe](https://github.com/surhh/nfitsview/releases/download/v1.1/nfitsview1_1-setup-x64.exe)
+[nfitsview1_2-setup-x64.exe](https://github.com/surhh/nfitsview/releases/download/v1.2/nfitsview1_2-setup-x64.exe)
+
+The latest version (1.2) of nFITSview for Linux 64-bit (Debian-based) is now available for download as well. The dependencies for install are:
+
+libboost-iostreams1.74.0 (>= 1.74.0), libc6 (>= 2.34), libgcc-s1 (>= 3.0), libpng16-16 (>= 1.6.2-1)
+
+libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.0.2), libqt5gui5-gles (>= 5.0.2), libqt5widgets5 (>= 5.15.1), libstdc++6 (>= 11)
+
+[nfitsview-1_2.deb](https://github.com/surhh/nfitsview/releases/download/v1.2/nfitsview-1_2.deb)
+
 
 # About nFITSview  (next FITS viewer)
 nFITSview - A simple and user-friendly FITS image viewer
 
-![nfitsview1_1_screenshot_5](https://user-images.githubusercontent.com/109148999/180640402-b17321d1-2002-4112-81db-3fd0c16e0b8f.png)
-![nfitsview1_1_screenshot_6](https://user-images.githubusercontent.com/109148999/180640403-01bed71b-ae8b-4fdd-aa3b-2d104e64ea56.png)
-![nfitsview1_1_screenshot_7](https://user-images.githubusercontent.com/109148999/180741392-779ce687-e1a1-4937-a806-0b9de9a6c3c7.png)
+![nfitsview1_2_screenshot_1](https://user-images.githubusercontent.com/109148999/189863673-95bae9c0-0a9f-4d1a-8cbe-db80a276a623.png)
+![nfitsview1_2_screenshot_2](https://user-images.githubusercontent.com/109148999/189863690-7321a797-b92a-4ad3-ae87-1c04b896c842.png)
+![nfitsview1_2_screenshot_3](https://user-images.githubusercontent.com/109148999/189863700-1610f79c-fa03-471e-8619-888ae8559e22.png)
 
 
 Currently nFITSview supports the following formats and features:
