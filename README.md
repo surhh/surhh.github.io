@@ -2,7 +2,7 @@
 
 The latest version (1.3) of nFITSview for Windows 64-bit to download:
 
-![nfitsview1_3-setup-x64.exe](https://github.com/surhh/nfitsview/releases/download/v1.3/nfitsview1_3-setup-x64.exe)
+[nfitsview1_3-setup-x64.exe](https://github.com/surhh/nfitsview/releases/download/v1.3/nfitsview1_3-setup-x64.exe)
 
 The latest version (1.3) of nFITSview for Linux 64-bit (Debian-based) is now available for download as well. The dependencies for install are:
 
@@ -10,7 +10,7 @@ libboost-iostreams1.74.0 (>= 1.74.0), libc6 (>= 2.34), libgcc-s1 (>= 3.0), libpn
 
 libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.0.2), libqt5gui5-gles (>= 5.0.2), libqt5widgets5 (>= 5.15.1), libstdc++6 (>= 11)
 
-![nfitsview1_3-x64.deb](https://github.com/surhh/nfitsview/releases/download/v1.3/nfitsview1_3-x64.deb)
+[nfitsview1_3-x64.deb](https://github.com/surhh/nfitsview/releases/download/v1.3/nfitsview1_3-x64.deb)
 
 
 # About nFITSview  (next FITS viewer)
