@@ -4,7 +4,9 @@ The latest version (1.4) of nFITSview for Windows 64-bit to download:
 
 [nfitsview1_4-setup-x64.exe](https://github.com/surhh/nfitsview/releases/download/v1.4/nfitsview1_4-setup-x64.exe)
 
-The latest version (1.4) of nFITSview for Linux 64-bit (Debian-based) is now available for download as well. The dependencies for install are:
+The latest version (1.4) of nFITSview for Linux 64-bit (Debian-based) is now available for download as well. 
+
+The dependencies for install are:
 
 libboost-iostreams1.74.0 (>= 1.74.0), libc6 (>= 2.34), libgcc-s1 (>= 3.0), libpng16-16 (>= 1.6.2-1)
 
