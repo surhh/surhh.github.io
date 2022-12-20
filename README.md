@@ -1,12 +1,12 @@
 # Welcome to nFITSview page!
 
-The latest version (1.6) of nFITSview for Windows 64-bit to download:
+The latest version (1.7) of nFITSview for Windows 64-bit to download:
 
-[nfitsview1_6-setup-x64.exe](https://github.com/surhh/nfitsview/releases/download/v1.6/nfitsview1_6-setup-x64.exe)
+[nfitsview1_7-setup-x64.exe](https://github.com/surhh/nfitsview/releases/download/v1.7/nfitsview1_7-setup-x64.exe)
 
-The latest version (1.6) of nFITSview for Linux 64-bit (Debian-based) to download: 
+The latest version (1.7) of nFITSview for Linux 64-bit (Debian-based) to download: 
 
-[nfitsview1_6-x64.deb](https://github.com/surhh/nfitsview/releases/download/v1.6/nfitsview1_6-x64.deb)
+[nfitsview1_7-x64.deb](https://github.com/surhh/nfitsview/releases/download/v1.7/nfitsview1_7-x64.deb)
 
 The dependencies for installing in Linux are:
 
@@ -23,13 +23,13 @@ Currently nFITSview supports the following formats and features:
 -    32-bit floating point and integer images
 -    64-bit floating point and integer images (experimental, may still not work   
      as it should)
--    Exporting image HDUs as PNG/JPEG/BMP files
+-    Exporting image HDUs as PNG/TIFF/JPEG/BMP files
 -    Bulk exporting of all image HDUs as PNG files
 -    RGB gamma correction, grayscale and "Eye Comfort" filter
 -    Image zoom in/out
 -    HDU header syntax view
 -    Raw data hex preview
--    Only uncompressed images are supported 
+-    Only uncompressed FITS data is supported 
 -    Command line exporting of FITS file  (see -h, -e command line switches).
      
      *Note: the console output is not visible on Windows platform.*
