@@ -1,12 +1,12 @@
 # Welcome to nFITSview page!
 
-The latest version (1.9) of nFITSview for Windows 64-bit to download:
+The latest version (2.0) of nFITSview for Windows 64-bit to download:
 
-[nfitsview1_9-setup-x64.exe](https://github.com/surhh/nfitsview/releases/download/v1.9/nfitsview1_9-setup-x64.exe)
+[nfitsview2_0-setup-x64.exe](https://github.com/surhh/nfitsview/releases/download/v2.0/nfitsview2_0-setup-x64.exe)
 
-The latest version (1.9) of nFITSview for Linux 64-bit (Debian-based) to download: 
+The latest version (2.0) of nFITSview for Linux 64-bit (Debian-based) to download: 
 
-[nfitsview1_9-x64.deb](https://github.com/surhh/nfitsview/releases/download/v1.9/nfitsview1_9-x64.deb)
+[nfitsview2_0-x64.deb](https://github.com/surhh/nfitsview/releases/download/v2.0/nfitsview2_0-x64.deb)
 
 The dependencies for installing in Linux are:
 
