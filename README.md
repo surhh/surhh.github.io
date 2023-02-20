@@ -1,16 +1,16 @@
 # Welcome to nFITSview page!
 
-The latest version (2.0) of nFITSview for Windows 64-bit to download:
+The latest version (2.1) of nFITSview for Windows 64-bit to download:
 
-[nfitsview2_0-setup-x64.exe](https://github.com/surhh/nfitsview/releases/download/v2.0/nfitsview2_0-setup-x64.exe)
+[nfitsview2_1-setup-x64.exe](https://github.com/surhh/nfitsview/releases/download/v2.1/nfitsview2_1-setup-x64.exe)
 
-The latest version (2.0) of nFITSview for Linux 64-bit (Debian-based) to download: 
+The latest version (2.1) of nFITSview for Linux 64-bit (Debian-based) to download: 
 
-[nfitsview2_0-x64.deb](https://github.com/surhh/nfitsview/releases/download/v2.0/nfitsview2_0-x64.deb)
+[nfitsview2_1-x64.deb](https://github.com/surhh/nfitsview/releases/download/v2.1/nfitsview2_1-x64.deb)
 
 The dependencies for installing in Linux are:
 
-libboost-iostreams1.74.0 (>= 1.74.0), libc6 (>= 2.34), libgcc-s1 (>= 3.0), libpng16-16 (>= 1.6.2-1), libgomp1 (>= 4.9)
+libboost-iostreams1.74.0 (>= 1.74.0), libc6 (>= 2.34), libgcc-s1 (>= 3.0), libpng16-16 (>= 1.6.2-1)
 
 libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.0.2), libqt5gui5-gles (>= 5.0.2), libqt5widgets5 (>= 5.15.1), libstdc++6 (>= 11)
 
@@ -30,7 +30,6 @@ Currently nFITSview supports the following formats and features:
 -    HDU header syntax view
 -    Raw data hex preview
 -    Only uncompressed FITS data is supported
--    OpenMP is used to improve performance where possible 
 -    Command line exporting of FITS file  (see -h, -e command line switches).
      
      *Note: the console output is not visible on Windows platform. The command line 
