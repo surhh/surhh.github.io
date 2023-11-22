@@ -15,7 +15,7 @@ libboost-iostreams1.74.0 (>= 1.74.0), libc6 (>= 2.34), libgcc-s1 (>= 3.0), libpn
 libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.0.2), libqt5gui5-gles (>= 5.0.2), libqt5widgets5 (>= 5.15.1), libstdc++6 (>= 11)
 
 # About nFITSview  (next FITS viewer)
-nFITSview - A simple and user-friendly FITS image viewer
+nFITSview - A user-friendly FITS image viewer
 
 Currently nFITSview supports the following formats and features:
 
