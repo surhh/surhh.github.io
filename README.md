@@ -1,12 +1,12 @@
 # Welcome to nFITSview page!
 
-The latest version (2.8) of nFITSview for Windows 64-bit to download:
+The latest version (2.9) of nFITSview for Windows 64-bit to download:
 
-[nfitsview2_8-setup-x64.exe](https://github.com/surhh/nfitsview/releases/download/v2.8/nfitsview2_8-setup-x64.exe)
+[nfitsview2_9-setup-x64.exe](https://github.com/surhh/nfitsview/releases/download/v2.9/nfitsview2_9-setup-x64.exe)
 
-The latest version (2.8) of nFITSview for Linux 64-bit (Debian-based) to download: 
+The latest version (2.9) of nFITSview for Linux 64-bit (Debian-based) to download: 
 
-[nfitsview2_8-x64.deb](https://github.com/surhh/nfitsview/releases/download/v2.8/nfitsview2_8-x64.deb)
+[nfitsview2_9-x64.deb](https://github.com/surhh/nfitsview/releases/download/v2.9/nfitsview2_9-x64.deb)
 
 The dependencies for installing in Linux are:
 
@@ -26,11 +26,12 @@ Currently nFITSview supports the following formats and features:
 -    Exporting image HDUs as PNG/TIFF/JPEG/BMP files
 -    Bulk exporting of all image HDUs as PNG files
 -    RGB gamma correction, grayscale and "Eye Comfort" filters
+-    Filtering by pixel threshold value
 -    Image zoom in/out
 -    HDU header syntax view
 -    Raw data hex preview
 -    Both regular and compressed (.fz) FITS files are supported
--    Command line exporting of FITS file  (see -h, -e command line switches).
+-    Command line exporting of FITS file  (see -h, -e command line switches)
      
      *Note: the console output is not visible on Windows platform. The command line 
      supports image exporting only in "Original" mapping mode.*
@@ -52,12 +53,12 @@ corresponding pathes for the libraries in the CMakeLists.txt file and then build
 
 # Screenshots
 
-![nfitsview2_6_screenshot_1](https://github.com/surhh/nfitsview/assets/109148999/4fe62931-b68e-4a60-884f-a90b0615061b)
-![nfitsview2_6_screenshot_2](https://github.com/surhh/nfitsview/assets/109148999/a600f285-123d-400e-885a-e7f2a1796104)
-![nfitsview2_6_screenshot_3](https://github.com/surhh/nfitsview/assets/109148999/29c624c7-94da-4578-9304-8a7ca66e2cdb)
-![nfitsview2_6_screenshot_4](https://github.com/surhh/nfitsview/assets/109148999/36b08e90-85d3-4ff5-85d4-81d4bca920b5)
-![nfitsview2_6_screenshot_5](https://github.com/surhh/nfitsview/assets/109148999/cbccd45a-6899-40bb-b4bd-5d3f253e22c6)
-![nfitsview2_6_screenshot_6](https://github.com/surhh/nfitsview/assets/109148999/6648023a-95b8-4805-a5b8-b33ab8dcc054)
+![nfitsview2_9_screenshot_1](https://github.com/surhh/nfitsview/assets/109148999/3a671fbb-c7b3-4363-b88b-eb063e690e86)
+![nfitsview2_9_screenshot_2](https://github.com/surhh/nfitsview/assets/109148999/b3db3e6a-717f-4a40-8009-990f974f9d5e)
+![nfitsview2_9_screenshot_3](https://github.com/surhh/nfitsview/assets/109148999/d007fd4f-a670-41c2-9945-43c598f0e70c)
+![nfitsview2_9_screenshot_4](https://github.com/surhh/nfitsview/assets/109148999/57de7b91-4b57-4808-9f5b-5ea4ac179742)
+![nfitsview2_9_screenshot_5](https://github.com/surhh/nfitsview/assets/109148999/dd36a34f-3468-4201-8547-410ccdb30be2)
+![nfitsview2_9_screenshot_6](https://github.com/surhh/nfitsview/assets/109148999/0328e7ec-4925-4364-8c34-feab5ff115ec)
 
 # About FITS format
 
