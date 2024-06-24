@@ -11,11 +11,18 @@ The latest version (3.0) of nFITSview for Linux 64-bit (Debian-based) to downloa
 The dependencies for installing in Linux are:
 
 
-libboost-iostreams1.83.0 (>= 1.83.0), libc6 (>= 2.34), libgcc-s1 (>= 3.0), libgomp1 (>= 4.9), 
+libboost-iostreams1.83.0 (>= 1.83.0), libc6 (>= 2.34), 
 
-libpng16-16t64 (>= 1.6.2), libqt5core5t64 (>= 5.15.1), libqt5gui5t64 (>= 5.0.2) | libqt5gui5-gles (>= 5.0.2),
+libgcc-s1 (>= 3.0), libgomp1 (>= 4.9), 
 
-libqt5network5t64 (>= 5.0.2), libqt5widgets5t64 (>= 5.15.1), libstdc++6 (>= 13.1)
+libpng16-16t64 (>= 1.6.2), libqt5core5t64 (>= 5.15.1), 
+
+libqt5gui5t64 (>= 5.0.2) | libqt5gui5-gles (>= 5.0.2),
+
+libqt5network5t64 (>= 5.0.2), libqt5widgets5t64 (>= 5.15.1), 
+
+libstdc++6 (>= 13.1)
+
 
 # About nFITSview  (next FITS viewer)
 nFITSview - A user-friendly FITS image viewer
