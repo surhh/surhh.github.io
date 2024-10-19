@@ -1,12 +1,12 @@
 # Welcome to nFITSview page!
 
-The latest version (3.1) of nFITSview for Windows 64-bit to download:
+The latest version (3.2) of nFITSview for Windows 64-bit to download:
 
-[nfitsview3_1-setup-x64.exe](https://github.com/surhh/nfitsview/releases/download/v3.1/nfitsview3_1-setup-x64.exe)
+[nfitsview3_2-setup-x64.exe](https://github.com/surhh/nfitsview/releases/download/v3.2/nfitsview3_2-setup-x64.exe)
 
-The latest version (3.1) of nFITSview for Linux 64-bit (Debian-based) to download: 
+The latest version (3.2) of nFITSview for Linux 64-bit (Debian-based) to download: 
 
-[nfitsview3_1-x64.deb](https://github.com/surhh/nfitsview/releases/download/v3.1/nfitsview3_1-x64.deb)
+[nfitsview3_2-x64.deb](https://github.com/surhh/nfitsview/releases/download/v3.2/nfitsview3_2-x64.deb)
 
 The dependencies for installing in Linux are:
 
@@ -58,17 +58,14 @@ corresponding pathes for the libraries in the CMakeLists.txt file and then build
 
 # Screenshots
 
-![nfitsview2_9_screenshot_1](https://github.com/surhh/nfitsview/assets/109148999/3a671fbb-c7b3-4363-b88b-eb063e690e86)
-
-![nfitsview2_9_screenshot_2](https://github.com/surhh/nfitsview/assets/109148999/b3db3e6a-717f-4a40-8009-990f974f9d5e)
-
-![nfitsview2_9_screenshot_3](https://github.com/surhh/nfitsview/assets/109148999/d007fd4f-a670-41c2-9945-43c598f0e70c)
-
-![nfitsview2_9_screenshot_4](https://github.com/surhh/nfitsview/assets/109148999/57de7b91-4b57-4808-9f5b-5ea4ac179742)
-
-![nfitsview2_9_screenshot_5](https://github.com/surhh/nfitsview/assets/109148999/dd36a34f-3468-4201-8547-410ccdb30be2)
-
-![nfitsview2_9_screenshot_6](https://github.com/surhh/nfitsview/assets/109148999/0328e7ec-4925-4364-8c34-feab5ff115ec)
+![nfitsview3_2_screenshot_1](https://github.com/user-attachments/assets/a1a69547-7c62-4eae-a524-1672f0583d4d)
+![nfitsview3_2_screenshot_2](https://github.com/user-attachments/assets/1081da44-04a0-4430-96b6-afc5225e376b)
+![nfitsview3_2_screenshot_3](https://github.com/user-attachments/assets/32ba4c7b-9c93-44f4-a745-6e034787d4d9)
+![nfitsview3_2_screenshot_4](https://github.com/user-attachments/assets/f939aa94-e242-4382-9dce-9c51066fcedb)
+![nfitsview3_2_screenshot_5](https://github.com/user-attachments/assets/8337df2b-4558-45df-9122-7307ad0b495d)
+![nfitsview3_2_screenshot_6](https://github.com/user-attachments/assets/0a0094f6-6bef-40ca-b11c-920bbd32d951)
+![nfitsview3_2_screenshot_7](https://github.com/user-attachments/assets/ccf21653-020c-4822-a3f5-f170dd76e476)
+![nfitsview3_2_screenshot_8](https://github.com/user-attachments/assets/bf90ac17-3a7a-4b13-8212-e1c20520d929)
 
 # About FITS format
 
