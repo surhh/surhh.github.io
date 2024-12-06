@@ -1,22 +1,26 @@
 # Welcome to nFITSview page!
 
-The latest version (3.2) of nFITSview for Windows 64-bit to download:
+The latest version (3.3) of nFITSview for Windows 64-bit to download:
 
-[nfitsview3_2-setup-x64.exe](https://github.com/surhh/nfitsview/releases/download/v3.2/nfitsview3_2-setup-x64.exe)
+[nfitsview3_3-setup-x64.exe](https://github.com/surhh/nfitsview/releases/download/v3.3/nfitsview3_3-setup-x64.exe)
 
-The latest version (3.2) of nFITSview for Linux 64-bit (Debian-based) to download: 
+The latest version (3.3) of nFITSview for Linux 64-bit (Debian-based) to download: 
 
-[nfitsview3_2-x64.deb](https://github.com/surhh/nfitsview/releases/download/v3.2/nfitsview3_2-x64.deb)
+[nfitsview3_3-x64.deb](https://github.com/surhh/nfitsview/releases/download/v3.3/nfitsview3_3-x64.deb)
 
 The dependencies for installing in Linux are:
 
 
-libboost-iostreams1.83.0 (>= 1.83.0), libc6 (>= 2.34),
-libgcc-s1 (>= 3.0), libgomp1 (>= 4.9),
-libpng16-16t64 (>= 1.6.2), libqt5core5t64 (>= 5.15.1),
-libqt5gui5t64 (>= 5.0.2) | libqt5gui5-gles (>= 5.0.2),
-libqt5network5t64 (>= 5.0.2), libqt5widgets5t64 (>= 5.15.1),
-libstdc++6 (>= 13.1)
+llibboost-iostreams1.83.0 (>= 1.83.0)   
+libc6 (>= 2.34)  
+libgcc-s1 (>= 3.0)   
+libgomp1 (>= 4.9)   
+libpng16-16t64 (>= 1.6.2)   
+libqt6core6t64 (>= 6.6.0)   
+libqt6gui6 (>= 6.1.2)   
+libqt6network6 (>= 6.1.2)   
+libqt6widgets6 (>= 6.1.2)   
+libstdc++6 (>= 14)
 
 
 # About nFITSview  (next FITS viewer)
