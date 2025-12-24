@@ -1,22 +1,21 @@
 # Welcome to nFITSview page!
 
-The latest version (3.5) of nFITSview for Windows 64-bit to download:
+The latest version (3.6) of nFITSview for Windows 64-bit to download:
 
-[nfitsview3_5-setup-x64.exe](https://github.com/surhh/nfitsview/releases/download/v3.5/nfitsview3_5-setup-x64.exe)
+[nfitsview3_6-setup-x64.exe](https://github.com/surhh/nfitsview/releases/download/v3.6/nfitsview3_6-setup-x64.exe)
 
-The latest version (3.5) of nFITSview for Linux 64-bit (Debian-based) to download: 
+The latest version (3.6) of nFITSview for Linux 64-bit (Debian-based) to download: 
 
-[nfitsview3_5-x64.deb](https://github.com/surhh/nfitsview/releases/download/v3.5/nfitsview3_5-x64.deb)
+[nfitsview3_6-x64.deb](https://github.com/surhh/nfitsview/releases/download/v3.6/nfitsview3_6-x64.deb)
 
 The dependencies for installing in Linux are:
 
 
-llibboost-iostreams1.83.0 (>= 1.83.0)   
+llibboost-iostreams1.83.0 (>= 1.88.0)   
 libc6 (>= 2.34)  
-libgcc-s1 (>= 3.0)   
-libgomp1 (>= 4.9)   
-libpng16-16t64 (>= 1.6.2)   
-libqt6core6t64 (>= 6.6.0)   
+libgcc-s1 (>= 3.0)    
+libpng16-16t64 (>= 1.6.46)   
+libqt6core6t64 (>= 6.9.1)   
 libqt6gui6 (>= 6.1.2)   
 libqt6network6 (>= 6.1.2)   
 libqt6widgets6 (>= 6.1.2)   
@@ -32,7 +31,7 @@ Currently nFITSview supports the following formats and features:
 -    16-bit integer images
 -    32-bit floating point and integer images
 -    64-bit floating point and integer images
--    Exporting image HDUs as PNG/TIFF/JPEG/BMP files
+-    Exporting image HDUs as PNG/TIFF/JPEG/BMP/PPM files
 -    Bulk exporting of all image HDUs as PNG files
 -    RGB gamma correction, grayscale and "Eye Comfort" filters
 -    Filtering by pixel threshold value
