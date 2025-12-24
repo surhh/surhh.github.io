@@ -1,6 +1,6 @@
 # Welcome to nFITSview page!
 
-The latest version (3.6) of nFITSview for Windows 64-bit to download:
+The latest version (3.6) of nFITSview for Windows 64-bit to download (starting from version 3.6 Windows 10 or later is required):
 
 [nfitsview3_6-setup-x64.exe](https://github.com/surhh/nfitsview/releases/download/v3.6/nfitsview3_6-setup-x64.exe)
 
