@@ -1,19 +1,20 @@
 # Welcome to nFITSview page!
 
-The latest version (3.6) of nFITSview for Windows 64-bit to download (starting from version 3.6 Windows 10 or later is required):
+The latest version (3.7) of nFITSview for Windows 64-bit to download (starting from version 3.6 Windows 10 or later is required):
 
-[nfitsview3_6-setup-x64.exe](https://github.com/surhh/nfitsview/releases/download/v3.6/nfitsview3_6-setup-x64.exe)
+[nfitsview3_7-setup-x64.exe](https://github.com/surhh/nfitsview/releases/download/v3.7/nfitsview3_7-setup-x64.exe)
 
-The latest version (3.6) of nFITSview for Linux 64-bit (Debian-based) to download: 
+The latest version (3.7) of nFITSview for Linux 64-bit (Debian-based) to download: 
 
-[nfitsview3_6-x64.deb](https://github.com/surhh/nfitsview/releases/download/v3.6/nfitsview3_6-x64.deb)
+[nfitsview3_7-x64.deb](https://github.com/surhh/nfitsview/releases/download/v3.7/nfitsview3_6-x64.deb)
 
 The dependencies for installing in Linux are:
 
 
 llibboost-iostreams1.83.0 (>= 1.88.0)   
 libc6 (>= 2.34)  
-libgcc-s1 (>= 3.0)    
+libgcc-s1 (>= 3.0)
+libgomp1 (>= 4.9)
 libpng16-16t64 (>= 1.6.46)   
 libqt6core6t64 (>= 6.9.1)   
 libqt6gui6 (>= 6.1.2)   
@@ -44,6 +45,7 @@ Currently nFITSview supports the following formats and features:
      *Note: the console output is not visible on Windows platform. The command line 
      supports image exporting only in "Original" mapping mode.*
 
+     ***Known issues: update checking stopped working in Windows***
     
 # How to build under Linux
 
