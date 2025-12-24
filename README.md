@@ -6,7 +6,7 @@ The latest version (3.7) of nFITSview for Windows 64-bit to download (starting f
 
 The latest version (3.7) of nFITSview for Linux 64-bit (Debian-based) to download: 
 
-[nfitsview3_7-x64.deb](https://github.com/surhh/nfitsview/releases/download/v3.7/nfitsview3_6-x64.deb)
+[nfitsview3_7-x64.deb](https://github.com/surhh/nfitsview/releases/download/v3.7/nfitsview3_7-x64.deb)
 
 The dependencies for installing in Linux are:
 
