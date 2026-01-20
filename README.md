@@ -15,8 +15,7 @@ libboost-iostreams1.83.0 (>= 1.88.0) , libc6 (>= 2.34) , libgcc-s1 (>= 3.0) , li
 
 libqt6core6t64 (>= 6.9.1) , libqt6gui6 (>= 6.1.2) , libqt6network6 (>= 6.1.2) , libqt6widgets6 (>= 6.1.2) , libstdc++6 (>= 14)
 
-
-# Experimental (portable) version for macOS
+***Experimental (portable) version for macOS***
 
 [nfitsview3_7_portable_mac.zip](https://github.com/surhh/nfitsview/releases/download/v3.7/nfitsview3_7_portable_mac.zip)
 
