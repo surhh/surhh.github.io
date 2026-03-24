@@ -61,9 +61,9 @@ corresponding pathes for the libraries in the CMakeLists.txt file and then build
 
 # Screenshots
 
-<img width="2050" height="1174" alt="nfitsview3_8_screenshot_3" src="https://github.com/user-attachments/assets/f9558e9e-2f41-47f0-9632-140dc15d05d6" />
-<img width="2050" height="1174" alt="nfitsview3_8_screenshot_2" src="https://github.com/user-attachments/assets/a444eca9-1471-458b-8abe-e70a3b939eea" />
-<img width="2050" height="1174" alt="nfitsview3_8_screenshot_1" src="https://github.com/user-attachments/assets/73ac1dab-423e-4d16-bf8a-a8c820a13484" />
+<img alt="nfitsview3_8_screenshot_3" src="https://github.com/user-attachments/assets/f9558e9e-2f41-47f0-9632-140dc15d05d6" />
+<img alt="nfitsview3_8_screenshot_2" src="https://github.com/user-attachments/assets/a444eca9-1471-458b-8abe-e70a3b939eea" />
+<img alt="nfitsview3_8_screenshot_1" src="https://github.com/user-attachments/assets/73ac1dab-423e-4d16-bf8a-a8c820a13484" />
 
 
 
