@@ -15,10 +15,13 @@ libqt6charts6 (>= 6.6.1), libqt6core6t64 (>= 6.9.1), libqt6gui6 (>= 6.1.2), libq
 libqt6widgets6 (>= 6.1.2), libstdc++6 (>= 14)
 
 
-# Experimental version for macOS
+------------------
+
+Experimental version for macOS
 
 [nfitsview3_9.dmg](https://github.com/surhh/nfitsview/releases/download/v3.9/nfitsview3_9.dmg)
 
+------------------
 
 # About nFITSview  (next FITS viewer)
 nFITSview - A user-friendly FITS image viewer
