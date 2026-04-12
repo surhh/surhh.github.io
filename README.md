@@ -14,7 +14,10 @@ libboost-iostreams1.88.0 (>= 1.88.0), libc6 (>= 2.34), libgcc-s1 (>= 3.0), libpn
 libqt6charts6 (>= 6.6.1), libqt6core6t64 (>= 6.9.1), libqt6gui6 (>= 6.1.2), libqt6network6 (>= 6.1.2), 
 libqt6widgets6 (>= 6.1.2), libstdc++6 (>= 14)
 
-***Experimental (portable) version 3.8 for macOS will be available soon***
+
+# Experimental version for macOS
+
+[nfitsview3_9.dmg](https://github.com/surhh/nfitsview/releases/download/v3.9/nfitsview3_9.dmg)
 
 
 # About nFITSview  (next FITS viewer)
