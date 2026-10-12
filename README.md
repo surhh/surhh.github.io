@@ -1,18 +1,18 @@
 # Welcome to nFITSview page!
 
-The latest version (3.9) of nFITSview for Windows 64-bit to download (starting from version 3.6 Windows 10 or later is required):
+The latest version (4.0) of nFITSview for Windows 64-bit to download (starting from version 3.6 Windows 10 or later is required):
 
-[nfitsview3_9-setup-x64.exe](https://github.com/surhh/nfitsview/releases/download/v3.9/nfitsview3_9-setup-x64.exe)
+[nfitsview4_0-setup-x64.exe](https://github.com/surhh/nfitsview/releases/download/v4.0/nfitsview4_0-setup-x64.exe)
 
-The latest version (3.9) of nFITSview for Linux 64-bit (Debian-based) to download: 
+The latest version (4.0) of nFITSview for Linux 64-bit (Debian-based) to download: 
 
-[nfitsview3_9-x64.deb](https://github.com/surhh/nfitsview/releases/download/v3.9/nfitsview3_9-x64.deb)
+[nfitsview4_0-x64.deb](https://github.com/surhh/nfitsview/releases/download/v4.0/nfitsview4_0-x64.deb)
 
 The dependencies for installing in Linux are:
 
-libboost-iostreams1.88.0 (>= 1.88.0), libc6 (>= 2.34), libgcc-s1 (>= 3.0), libpng16-16t64 (>= 1.6.46), 
-libqt6charts6 (>= 6.6.1), libqt6core6t64 (>= 6.9.1), libqt6gui6 (>= 6.1.2), libqt6network6 (>= 6.1.2), 
-libqt6widgets6 (>= 6.1.2), libstdc++6 (>= 14)
+libboost-iostreams1.90.0 (>= 1.90.0), libc6 (>= 2.43), libgcc-s1 (>= 3.0), libpng16-16t64 (>= 1.6.46), 
+libqt6charts6 (>= 6.6.1), libqt6core6t64 (>= 6.10.2), libqt6gui6 (>= 6.1.2), libqt6network6 (>= 6.1.2), 
+libqt6widgets6 (>= 6.9.1), libstdc++6 (>= 14)
 
 
 ------------------
@@ -36,6 +36,8 @@ Currently nFITSview supports the following formats and features:
 -    Bulk exporting of all image HDUs as PNG files
 -    Percentile and stretching support
 -    Image zoom in/out
+-    FITS file explorer
+-    HDU explorer
 -    HDU header syntax view
 -    Raw data hex preview
 -    Both regular and compressed (.fz) FITS files are supported
@@ -66,9 +68,7 @@ corresponding pathes for the libraries in the CMakeLists.txt file and then build
 
 # Screenshots
 
-<img alt="nfitsview3_8_screenshot_1" src="https://github.com/user-attachments/assets/73ac1dab-423e-4d16-bf8a-a8c820a13484" />
-<img alt="nfitsview3_8_screenshot_2" src="https://github.com/user-attachments/assets/a444eca9-1471-458b-8abe-e70a3b939eea" />
-<img alt="nfitsview3_8_screenshot_3" src="https://github.com/user-attachments/assets/f9558e9e-2f41-47f0-9632-140dc15d05d6" />
+<img width="2050" height="1174" alt="nfitsview4_0_screenshot_1" src="https://github.com/user-attachments/assets/584fb8c4-5553-4a9e-b075-ec8d6fb06360" />
 
 
 # About FITS format
